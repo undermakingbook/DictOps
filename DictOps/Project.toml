@@ -1,0 +1,6 @@
+authors = ["Sakumoto Takeshi <letusbookmake@gmail.com>"]
+name = "DictOps"
+uuid = "36bf0dd2-5aa3-11e9-3302-d7e5c7354025"
+version = "0.1.0"
+
+[deps]
